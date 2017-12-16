@@ -1,5 +1,5 @@
 # JSPhoneFormat
-한국전화번호 체계에 맞는 구분 
+한국전화번호 체계에 맞는 구분자 추가
 
 [![Version](https://img.shields.io/cocoapods/v/JSPhoneFormat.svg?style=flat)](http://cocoapods.org/pods/JSPhoneFormat)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/jeasungLEE/JSPhoneFormat/blob/master/LICENSE)
@@ -9,14 +9,14 @@
 ![demo](https://github.com/JeaSungLEE/JSGrowingTextView/blob/master/intro.gif)
 
 ## Requirements
-* iOS9.0 or higher version
+* iOS9.0이상
 * Swift4
 
 
 ## Installation
 ### Cocoapods
 
-JSPhoneFormat is available through [CocoaPods](http://cocoapods.org).
+JSPhoneFormat는 코코아팟으로 가능합니다. [CocoaPods](http://cocoapods.org).
 
 ```ruby
 pod 'JSPhoneFormat'
