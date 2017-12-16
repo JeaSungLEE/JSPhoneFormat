@@ -6,7 +6,15 @@
 [![Platform](https://img.shields.io/cocoapods/p/JSPhoneFormat.svg?style=flat)](http://cocoapods.org/pods/JSPhoneFormat)
 [![Swift 4.0](https://img.shields.io/badge/Swift-4.0-orange.svg?style=flat)](https://developer.apple.com/swift/)
 ## Introduce
-![demo](https://github.com/JeaSungLEE/JSGrowingTextView/blob/master/intro.gif)
+![demo3](https://github.com/JeaSungLEE/JSPhoneFormat/blob/master/Demo/demo3.gif)
+![demo1](https://github.com/JeaSungLEE/JSPhoneFormat/blob/master/Demo/demo1.gif)
+![demo2](https://github.com/JeaSungLEE/JSPhoneFormat/blob/master/Demo/demo2.gif)
+
+* 15##-####
+* 02-###-####
+* 010-####-####
+* 외 국제전화를 제외한 다양한 국내용 포맷 지원
+
 
 ## Requirements
 * iOS9.0이상
